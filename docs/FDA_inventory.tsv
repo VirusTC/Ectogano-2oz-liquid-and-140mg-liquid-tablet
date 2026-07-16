@@ -1,0 +1,5 @@
+Formulation_ID	Presentation_Type	Unit_Strength	Daily_Dose_Units	Daily_Active_Output	Timeline_Mode	Total_Protocol_Units	Cumulative_Active_Yield	Buffer_Supply_10_Pct
+ECTO-TAB-01	Oral Tablet	140 mg	2 tabs/day	280 mg/day	180 Days	360 Tablets	50,400 mg	396 Tablets
+ECTO-TAB-01	Oral Tablet	140 mg	2 tabs/day	280 mg/day	168 Days	336 Tablets	47,040 mg	370 Tablets
+ECTO-LIQ-02	Oral Liquid	1 fl oz	2 oz/day	59.15 mL/day	180 Days	360 fl oz	10,646.46 mL	396 fl oz
+ECTO-LIQ-02	Oral Liquid	1 fl oz	2 oz/day	59.15 mL/day	168 Days	336 fl oz	9,936.70 mL	370 fl oz
